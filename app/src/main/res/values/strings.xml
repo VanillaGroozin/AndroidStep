@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">AndroidStep</string>
+    <string name="main_page_result">Fill the fields</string>
+    <string name="main_page_login">Login</string>
+    <string name="main_page_password">Password</string>
+    <string name="main_submit">Submit</string>
+    <string name="login">icarus</string>
+    <string name="password">fallen</string>x
 </resources>
