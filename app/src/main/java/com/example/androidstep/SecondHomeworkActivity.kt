@@ -10,7 +10,7 @@ import android.widget.ListView
 import androidx.appcompat.app.AppCompatActivity
 
 
-class second : AppCompatActivity() {
+class SecondHomeworkActivity : AppCompatActivity() {
     var changeHwBtn: Button? = null
     var listView: ListView? = null
     var chk1: CheckBox? = null

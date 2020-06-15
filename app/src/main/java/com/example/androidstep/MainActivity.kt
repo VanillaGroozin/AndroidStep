@@ -6,7 +6,6 @@ import android.os.Bundle
 import android.view.View
 import android.widget.Button
 import android.widget.TextView
-import androidx.core.content.ContextCompat
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
@@ -41,7 +40,7 @@ class MainActivity : AppCompatActivity() {
         })
 
         changeHwBtn!!.setOnClickListener(View.OnClickListener {
-            val intent = Intent(this, second::class.java)
+            val intent = Intent(this, SecondHomeworkActivity::class.java)
             startActivity(intent)
         })
     }

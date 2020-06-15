@@ -5,5 +5,11 @@
     <string name="main_page_password">Password</string>
     <string name="main_submit">Submit</string>
     <string name="login">icarus</string>
-    <string name="password">fallen</string>x
+    <string name="password">fallen</string>
+
+
+    <string name="textview_activity_students_description">На данной странице содержиться список студентов для сортировки</string>
+    <string name="button_activity_students_sort_byname">Отсортировать по имени</string>
+    <string name="button_activity_students_sort_random">Отсортировать случайно</string>
+    <string name="dialog_restaurant_information_close">OK</string>
 </resources>
