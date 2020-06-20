@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "877884866876",
+    "firebase_url": "https://androidstep-eac2e.firebaseio.com",
+    "project_id": "androidstep-eac2e",
+    "storage_bucket": "androidstep-eac2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877884866876:android:9f8ef6d9a8d919ef6d9e39",
+        "android_client_info": {
+          "package_name": "com.example.androidstep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877884866876-n7c297d08l63nt3ge5mh0vik7cortdiu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1GkIsRCnhWnHk6PAIup63ZvzCt8EDSzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877884866876-n7c297d08l63nt3ge5mh0vik7cortdiu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
