@@ -4,17 +4,31 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:orientation="vertical"
+    android:gravity="center"
     android:layout_height="match_parent"
     tools:context=".FifthClassworkActivity">
 
 
     <Button
+        android:id="@+id/toFirstTask"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="To first task" />
+    <Button
         android:id="@+id/toSecondTask"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_gravity="center_horizontal"
+        android:layout_gravity="center"
         android:gravity="center"
-        android:text="To second task"
-        tools:ignore="MissingConstraints" />
+        android:text="To second task" />
+    <Button
+        android:id="@+id/toThirdTask"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="To third task" />
 
 </LinearLayout>

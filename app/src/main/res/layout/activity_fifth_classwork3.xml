@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+        android:id="@+id/fifthClassWork3_text_view_quest"
+        android:textAlignment="center"
+        android:gravity="center"
+        android:layout_width="400dp"
+        android:layout_height="200dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+            android:id="@+id/fifthClassWork3_button_answer1"
+            android:layout_width="200dp"
+            android:layout_height="45dp"/>
+        <Button
+            android:id="@+id/fifthClassWork3_button_answer2"
+            android:layout_width="200dp"
+            android:layout_height="45dp"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+            android:id="@+id/fifthClassWork3_button_answer3"
+            android:layout_width="200dp"
+            android:layout_height="45dp"/>
+        <Button
+            android:id="@+id/fifthClassWork3_button_answer4"
+            android:layout_width="200dp"
+            android:layout_height="45dp"/>
+    </LinearLayout>
+    <TextView
+        android:id="@+id/fifthClassWork3_text_view_result"
+        android:layout_width="wrap_content"
+        android:layout_height="45dp"/>
+</LinearLayout>
