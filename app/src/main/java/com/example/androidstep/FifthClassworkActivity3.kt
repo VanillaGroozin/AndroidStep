@@ -61,7 +61,7 @@ class FifthClassworkActivity3 : AppCompatActivity() {
             buttonAnswer3!!.setText(quest.answers[2])
             buttonAnswer4!!.setText(quest.answers[3])
             totalQuest=quest;
-        }else{
+        } else {
             textViewQuest!!.visibility = View.INVISIBLE
             buttonAnswer1!!.visibility = View.INVISIBLE
             buttonAnswer2!!.visibility = View.INVISIBLE
